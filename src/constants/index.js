@@ -191,7 +191,7 @@ const projects = [
       },
     ],
     image: carrent,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/AdeebAbubacker/yes_loyality",
   },
   {
     name: "Vegan",
@@ -212,7 +212,7 @@ const projects = [
       },
     ],
     image: jobit,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/AdeebAbubacker/fruit_shop_app",
   },
   {
     name: "Real Estate",
@@ -233,7 +233,7 @@ const projects = [
       },
     ],
     image: tripguide,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/AdeebAbubacker/ninety_two_agents",
   },
 ];
 
